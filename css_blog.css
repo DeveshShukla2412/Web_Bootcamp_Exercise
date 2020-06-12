@@ -1,0 +1,25 @@
+body{
+    width: 60%;
+    /*margin-left:25%;
+    margin-right: 25%;*/
+    /*width: 700px;*/
+    margin:20px auto;
+    border:20px solid #bdc3c7;
+    /*margin:10px 10px 10px 10px;*/
+    font-family: 'Raleway', sans-serif;
+}
+.date{
+    letter-spacing: 0.2rem;
+    color:#349bdb;
+    padding-left:15px;
+    text-transform: uppercase;
+    }
+h2{
+    color:#2c3e50;
+    padding-left:15px;
+    font-size: 2.0rem;
+}
+p{
+    padding-left:15px;
+    padding-right: 15px;
+}

@@ -1,0 +1,19 @@
+body{
+    padding-top: 70px;
+}
+.container .jumbotron, .container-fluid .jumbotron
+{
+    background: #ecf0f1;
+    color:#2c3350;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand
+{
+    color:white;
+}
+.thumbnail a>img, .thumbnail>img {
+    display: block;
+    width: 450px;
+    height: 450px; //change as per your requirement }

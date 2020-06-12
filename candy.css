@@ -1,0 +1,20 @@
+body{
+    background: #b7e9f7;
+    font-family: 'Nunito', sans-serif;
+}
+
+#navbarNavDropdown{
+font-weight: 100;
+font-size:1.5rem;
+}
+.navbar-dark .navbar-brand{
+    color:#ea1c2c;
+    font-weight: 100;
+    font-size:1.5rem;
+}
+#navbarNavDropdown .nav-link{
+    color:white;
+}
+#navbarNavDropdown .nav-link:hover{
+    color:#ea1c2c;
+}
