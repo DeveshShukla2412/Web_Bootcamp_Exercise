@@ -1,0 +1,29 @@
+.table2
+{ 
+margin-left: auto;
+margin-right: auto;
+    //margin from both side auto sets elements in center
+}
+h2
+{
+    text-align: center;
+}
+td
+{
+    width: 100px;
+    height: 100px;
+    align-content: center;
+}
+.vertical
+{
+   border-left: 1px solid black;
+   border-right:1px solid black;
+}
+.horizontal{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+td:hover
+{
+    background: #90EE90;
+}
